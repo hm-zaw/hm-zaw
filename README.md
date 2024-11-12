@@ -8,7 +8,7 @@
 
 - 🔧 Learning: Currently diving deeper into Spring and advanced web application design
 
-⚡ Fun fact: I believe in the power of a good cup of coffee to fuel late-night coding sessions.
+⚡ Fun fact: My ISFJ side loves details, so I’m often the one catching those sneaky little errors that others might miss!
 
 <!---
 hm-zaw/hm-zaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
