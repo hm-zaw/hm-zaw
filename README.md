@@ -2,7 +2,7 @@
 
 - 🌐 Backend: Experienced in Java (Spring), PHP (Laravel), Java EE
 
-- 🖥️ Frontend: HTML, CSS, JavaScript, React, Vue, Tailwind CSS
+- 🖥️ Frontend: HTML, CSS, JavaScript, React, and Tailwind CSS
 
 - 💻 Projects: Built practical projects across Java and PHP stacks
 
