@@ -1,6 +1,6 @@
 👋 Hi, I’m Htet Myet Zaw, a Computer Science student at the University of Information Technology (UIT), Myanmar, specializing in full-stack development.
 
-- 🌐 Backend: Experienced in Java (Spring Boot), PHP (Laravel), Java EE
+- 🌐 Backend: Experienced in Java (Spring, Spring Boot), PHP (Laravel), Java EE
 
 - 🖥️ Frontend: HTML, CSS, JavaScript, and Tailwind CSS
 
