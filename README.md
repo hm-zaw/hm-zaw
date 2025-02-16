@@ -28,3 +28,4 @@
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=blade&logoColor=white)
+![React](https://img.shields.io/badge/React?style=for-the-badge&logo=react&logoColor=white)
