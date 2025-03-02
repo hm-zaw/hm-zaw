@@ -2,11 +2,11 @@
 
 - 🌐 Backend: Experienced in Java (Spring Boot), PHP (Laravel), Java EE
 
-- 🖥️ Frontend: HTML, CSS, JavaScript, and Tailwind CSS
+- 🖥️ Frontend: React, JavaScript, and Tailwind CSS
 
 - 💻 Projects: Built practical projects across Java and PHP stacks
 
-- 🔧 Learning: Currently diving deeper into Spring and advanced web application design
+- 🔧 Learning: Currently diving deeper into Spring Boot and advanced web application design
 
 ⚡ Fun fact: My ISFJ side loves details, so I’m often the one catching those sneaky little errors that others might miss!
 
