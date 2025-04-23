@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Htet Myet Zaw 👋</h4>
+<h3 align="left">Hi, I'm Htet Myet Zaw 👋</h3>
 
 ###
 
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hm_zaw&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hm-zaw&theme=dark&border_radius=5" height="220" alt="streak graph"  />
 </div>
 
 ###
