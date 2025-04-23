@@ -60,16 +60,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hm-zaw&theme=dark&border_radius=5" height="220" alt="streak graph"  />
-</div>
-
-###
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
