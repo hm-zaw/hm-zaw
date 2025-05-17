@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A Computer Science student at the University of Information Technology (UIT), Myanmar, specializing in full-stack development.<br><br>🌐 Backend: Experienced in Java (Spring Boot), PHP (Laravel), Java EE<br><br>🖥️ Frontend: React, React Native, JavaScript, and Tailwind CSS<br><br>💻 Projects: Built practical projects across Java, React and PHP stacks<br><br>🔧 Learning: Currently diving deeper into React Native and advanced web application design<br><br>⚡ Fun fact: My ESFJ side shines in social settings—I’m the go-to person for making everyone feel included and keeping the vibe warm and welcoming!</p>
+<p align="left">A Computer Science student at the University of Information Technology (UIT), Myanmar, specializing in full-stack development.<br><br>🌐 Backend: Experienced in Java (Spring Boot), PHP (Laravel), Java EE<br>🖥️ Frontend: React, React Native, JavaScript, and Tailwind CSS<br>💻 Projects: Built practical projects across Java, React, Laravel and Mobile stacks<br><br>🔧 Learning: Currently diving deeper into React Native and advanced web application design<br><br>⚡ Fun fact: My ESFJ side shines in social settings—I’m the go-to person for making everyone feel included and keeping the vibe warm and welcoming!</p>
 
 ###
 
