@@ -31,6 +31,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
