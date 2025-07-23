@@ -21,6 +21,8 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="next logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=expressjs" height="40" alt="express logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
