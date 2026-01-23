@@ -2,11 +2,23 @@
 
 ###
 
-<h4 align="left">👩‍💻  About Me</h4>
+<h4 align="left">👩‍💻 About Me</h4>
 
 ###
 
-<p align="left">A Computer Science student at the University of Information Technology (UIT), Myanmar, specializing in full-stack development.<br><br>🌐 Backend: Experienced in Java (Spring Boot), PHP (Laravel), Java EE<br>🖥️ Frontend: React, Next.js, React Native, JavaScript, and Tailwind CSS<br>💻 Projects: Built practical projects across Java, React, Laravel and Mobile stacks<br><br>🔧 Learning: Currently diving deeper into React Native and advanced web application design<br><br>⚡ Fun fact: My ESFJ side shines in social settings—I’m the go-to person for making everyone feel included and keeping the vibe warm and welcoming!</p>
+<p align="left">
+Final-year Computer Science student at the University of Information Technology (UIT), Myanmar, with a strong focus on building real-world, scalable applications.<br><br>
+
+🌐 <b>Backend</b>: Java (Spring Boot), PHP (Laravel), Java EE — REST APIs, authentication, and database-driven systems<br>
+🖥️ <b>Frontend</b>: React, Next.js, React Native, JavaScript, Tailwind CSS — responsive and user-centered UI development<br>
+📱 <b>Mobile</b>: React Native applications with real-time data and API integration<br><br>
+
+💻 <b>Experience</b>: Designed and developed full-stack and mobile projects across academic and personal work, emphasizing clean architecture, maintainability, and performance<br><br>
+
+🔧 <b>Current Focus</b>: Advanced React & React Native patterns, system design, and preparing production-ready web and mobile applications<br><br>
+
+⚡ <b>Fun fact</b>: An ESFJ who thrives in team environments—known for clear communication, collaboration, and keeping projects (and people) moving smoothly 🚀
+</p>
 
 ###
 
