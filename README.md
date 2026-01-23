@@ -1,11 +1,5 @@
 <h3 align="left">Hi, I'm Htet Myet Zaw 👋</h3>
 
-###
-
-<h4 align="left">👩‍💻 About Me</h4>
-
-###
-
 <p align="left">
 Final-year Computer Science student at the University of Information Technology (UIT), Myanmar, with a strong focus on building real-world, scalable applications.<br><br>
 
