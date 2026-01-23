@@ -14,9 +14,7 @@ Final-year Computer Science student at the University of Information Technology 
 <b>Mobile</b>: React Native applications with real-time data and API integration<br><br>
 
 <b>Experience</b>: Designed and developed full-stack and mobile projects across academic and personal work, emphasizing clean architecture, maintainability, and performance<br><br>
-
 <b>Current Focus</b>: Advanced React & React Native patterns, system design, and preparing production-ready web and mobile applications<br><br>
-
 <b>Fun fact</b>: An ESFJ who thrives in team environments—known for clear communication, collaboration, and keeping projects (and people) moving smoothly 🚀
 </p>
 
