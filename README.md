@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I'm Htet Myet Zaw 👋</h3>
 
 <p align="left">
-Final-year Computer Science student at the University of Information Technology (UIT), Myanmar, with a strong focus on building real-world, scalable applications.<br><br>
+Final-year Computer Science student at the University of Information Technology (UIT), Myanmar, with a strong focus on building real-world, scalable applications.<br>
 
 <b>Experience</b>: Designed and developed full-stack and mobile projects across academic and personal work, emphasizing clean architecture, maintainability, and performance<br>
 <b>Current Focus</b>: Advanced React & React Native patterns, system design, and preparing production-ready web and mobile applications<br><br>
