@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://hmzaw-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/htetmyetzaw-uit/">LinkedIn</a> •
-  <a href="[https://www.instagram.com/hm_zzz17/](https://www.facebook.com/share/1MNh7oQW3Y/?mibextid=wwXIfr)">Facebook</a>
+  <a href="https://www.facebook.com/share/1MNh7oQW3Y/?mibextid=wwXIfr">Facebook</a>
 </p>
 
 ---
