@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680">
+<rect width="1200" height="680" rx="18" fill="#0d1117"/>
+<rect x="18" y="18" width="1164" height="644" rx="14" fill="none" stroke="#30363d"/>
+<circle cx="42" cy="43" r="6" fill="#ff5f56"/>
+<circle cx="62" cy="43" r="6" fill="#ffbd2e"/>
+<circle cx="82" cy="43" r="6" fill="#27c93f"/>
+<text x="105" y="48" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">htet@github ~ $ whoami</text>
+
+<style>
+.ascii {
+  font-family: "Courier New", "DejaVu Sans Mono", monospace;
+  font-size: 11px;
+  font-weight: 700;
+  fill: #e6edf3;
+  white-space: pre;
+}
+.term {
+  font-family: "Courier New", "DejaVu Sans Mono", monospace;
+}
+.muted { fill: #8b949e; }
+.green { fill: #7ee787; }
+.cyan { fill: #79c0ff; }
+.yellow { fill: #d29922; }
+</style>
+
+<text x="42" y="72" class="ascii">                                  @@@@@@@@@@@@@@                                            </text>
+<text x="42" y="84" class="ascii">                                @@@@@@@@@@@@@@@@@@@                                         </text>
+<text x="42" y="96" class="ascii">                              %##%%%%%@@@@@@@@@@@@@@@@                                      </text>
+<text x="42" y="108" class="ascii">                            @####*##%%@@@@@@@@@@@@@@@@@                                     </text>
+<text x="42" y="120" class="ascii">                            %#%##%###%%%%%%%%@@@@@@@@@@@                                    </text>
+<text x="42" y="132" class="ascii">                           @#####***++:::::::++*#@@@@@@@@                                   </text>
+<text x="42" y="144" class="ascii">                           #####*++:··....······:+#@@@@@@@                                  </text>
+<text x="42" y="156" class="ascii">                          @##*:+···.........····:++#%@@@@@                                  </text>
+<text x="42" y="168" class="ascii">                          @%*:·······....··:::::+***#@@@@@                                  </text>
+<text x="42" y="180" class="ascii">                           @+·····:+::·.·:::::+++++**%@@@                                   </text>
+<text x="42" y="192" class="ascii">                           @+···:·++··..·::··:+:+::+*#@%@@                                  </text>
+<text x="42" y="204" class="ascii">                          @+:...........···......·:+*#@##@                                  </text>
+<text x="42" y="216" class="ascii">                           :··....·····.·::++....·:+*####                                   </text>
+<text x="42" y="228" class="ascii">                           #.·...·:·.···+#*++·····:*****%                                   </text>
+<text x="42" y="240" class="ascii">                            +·.··+··:·:::::+++:··:+**%@@                                    </text>
+<text x="42" y="252" class="ascii">                             @:..··++··..··:**:.·:**#                                       </text>
+<text x="42" y="264" class="ascii">                              @+..·.·····:+++:··:+**@                                       </text>
+<text x="42" y="276" class="ascii">                                #:·...···:::·::+++**@                                       </text>
+<text x="42" y="288" class="ascii">                                 %···.....··:++++***%                                       </text>
+<text x="42" y="300" class="ascii">                                 @····::+++*********#                                       </text>
+<text x="42" y="312" class="ascii">                                  :..···:+***********                                       </text>
+<text x="42" y="324" class="ascii">                                  :...·...··::++++++*%                                      </text>
+<text x="42" y="336" class="ascii">                                #+·.....·····::···:++::%                                    </text>
+<text x="42" y="348" class="ascii">                               % ..........··:·····.....:+#%                                </text>
+<text x="42" y="360" class="ascii">                           %#+·    ........·····...    .    .+%                             </text>
+<text x="42" y="372" class="ascii">                       @#+.           .............            ·+*#@                        </text>
+<text x="42" y="384" class="ascii">                   %*:.                .··.. ......                 ·:*%                    </text>
+<text x="42" y="396" class="ascii">               %+·.                    .+::. .....                      .:*%                </text>
+<text x="42" y="408" class="ascii">            @+.                         ·:·......                           ·+%             </text>
+<text x="42" y="420" class="ascii">          @+                                                                  .+%           </text>
+<text x="42" y="432" class="ascii">         *                                                             .     . .·+          </text>
+<text x="42" y="444" class="ascii">        *                                                              .    .·  · ·         </text>
+<text x="42" y="456" class="ascii">       %                                                                    ·    · .        </text>
+<text x="42" y="468" class="ascii">       ·                                                                   ··     · ·       </text>
+<text x="42" y="480" class="ascii">      #                                                                 . .:       · +      </text>
+<text x="42" y="492" class="ascii">      :                                     .                             ·.       .· #     </text>
+<text x="42" y="504" class="ascii">     %                                      .                           ...         ·.·@    </text>
+<text x="42" y="516" class="ascii">     +                                                                  ·.          .· #    </text>
+<text x="42" y="528" class="ascii">     .  .                                                              .·.           · *    </text>
+<text x="42" y="540" class="ascii">    #   .                            .     .                           .:.           ..*    </text>
+<text x="42" y="552" class="ascii">    :   .      . .                   .     .                           ·:.           ··+    </text>
+<text x="42" y="564" class="ascii">   %    ..     ....   .             ..                    .           .:+.          .·.:    </text>
+<text x="42" y="576" class="ascii">   :    .·      ·.. ..     .       ..                    .            .::·          .··.    </text>
+<text x="42" y="588" class="ascii">  %      ·.  .  .·. .     ....    .·.                    ·            ·+:·         .··· :%  </text>
+<text x="42" y="600" class="ascii">  :    ...·. .  .· .     ....    .·.      .             .·.          .·*+·.        ...  .·+ </text>
+<text x="42" y="612" class="ascii"> % .  .·. ··... .·..    .....    .·.      .             .·.          .:*+:.       ..      : </text>
+<text x="42" y="624" class="ascii"> : .  ..·..··.. ··    ......    .·..      ...           .·..    ..  ..++#+.      ..      :@ </text>
+<text x="42" y="636" class="ascii">%.. .....·.···..··  .........  .··.       ...           ··...   .    .+* %·     ..       .# </text>
+<text x="42" y="648" class="ascii">+ ........·.···..:..........  .··..       ...           ··...   .   ..+%  #...            .#</text>
+
+<text x="670" y="105" class="term muted" font-size="15">$ cat profile.txt</text>
+<text x="670" y="145" class="term green" font-size="30" font-weight="700">Htet Myet Zaw</text>
+<text x="670" y="175" class="term muted" font-size="16">@hm-zaw</text>
+
+<text x="670" y="220" class="term" font-size="15" fill="#e6edf3">Computer Science student @ UIT, Myanmar</text>
+<text x="670" y="248" class="term" font-size="15" fill="#e6edf3">Full-stack developer • ML learner • builder</text>
+
+<text x="670" y="300" class="term cyan" font-size="15">focus</text>
+<text x="670" y="326" class="term" font-size="14" fill="#e6edf3">React / Next.js / Laravel / Spring Boot</text>
+<text x="670" y="350" class="term" font-size="14" fill="#e6edf3">Java / PHP / JavaScript / Python / SQL</text>
+<text x="670" y="374" class="term" font-size="14" fill="#e6edf3">Docker / MongoDB / PostgreSQL / n8n</text>
+
+<text x="670" y="426" class="term yellow" font-size="15">currently</text>
+<text x="670" y="452" class="term" font-size="14" fill="#e6edf3">building useful products, learning in public,</text>
+<text x="670" y="476" class="term" font-size="14" fill="#e6edf3">and turning ideas into working software.</text>
+
+<text x="670" y="530" class="term muted" font-size="14">$ echo "let's build something cool"</text>
+<text x="670" y="556" class="term green" font-size="14">→ open to collaboration</text>
+<text x="670" y="600" class="term muted" font-size="13">github.com/hm-zaw</text>
+</svg>
