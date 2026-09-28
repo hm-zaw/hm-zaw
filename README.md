@@ -4,7 +4,7 @@
 
 </div>
 
-<h2 align="center">Hey, I'm Htet 👋</h2>
+<h2 align="center">Hey, I'm HTET MYET ZAW👋</h2>
 
 <p align="center">
   Computer Science student at the <b>University of Information Technology (UIT), Myanmar</b><br/>
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://htetmyetzaw.vercel.app/">Portfolio</a> •
+  <a href="https://hmzaw-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/htetmyetzaw-uit/">LinkedIn</a> •
-  <a href="https://www.instagram.com/hm_zzz17/">Instagram</a>
+  <a href="[https://www.instagram.com/hm_zzz17/](https://www.facebook.com/share/1MNh7oQW3Y/?mibextid=wwXIfr)">Facebook</a>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ### `>_ about me`
 
 ```text
-I'm a CS student who enjoys turning ideas into real, usable software.
+I'm a 5th-Year CS student who enjoys turning ideas into real, usable software.
 
 → Full-stack development
 → Backend & REST API design
@@ -62,18 +62,6 @@ I'm a CS student who enjoys turning ideas into real, usable software.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
-
----
-
-### `>_ things i've built`
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **Travinity** | Travel platform for flights, hotels, vehicles & cruises | React · Spring Boot · PostgreSQL · Tailwind |
-| **FitFinity Healthcare** | Healthcare management + symptom-based doctor booking | Laravel · Tailwind |
-| **Code2Career / IT Pout SA** | Hackathon project focused on connecting skills, careers & opportunities | Full-stack web |
-| **Moodoshii** | Personal mood tracking web app | Next.js · Firebase · Tailwind |
-| **JLPT N2 Study App** | Personal study platform with flashcards, SRS, tests & analytics | Next.js · TypeScript · MongoDB · n8n |
 
 ---
 
