@@ -79,11 +79,9 @@ I'm a 5th-Year CS student who enjoys turning ideas into real, usable software.
 
 ### `>_ github`
 
-### `>_ github`
-
 <p align="center">
   <img src="./profile/stats.svg" height="170" />
-  <img src="./profile/top-langs.svg" height="170" />
+  <img src="./profile/top-langs.svg" height="175" />
 </p>
 
 <p align="center">
