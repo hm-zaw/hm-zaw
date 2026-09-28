@@ -1,97 +1,116 @@
-<h3 align="left">Hi, I'm Htet Myet Zaw 👋</h3>
+<div align="center">
 
-<p align="left">
-Final-year Computer Science student at the University of Information Technology (UIT), Myanmar, with a strong focus on building real-world, scalable applications.<br>
+<img src="./profile.svg" alt="Htet Myet Zaw GitHub profile" width="100%"/>
 
-<b>Experience</b>: Designed and developed full-stack and mobile projects across academic and personal work, emphasizing clean architecture, maintainability, and performance<br>
-<b>Current Focus</b>: Advanced React & React Native patterns, system design, and preparing production-ready web and mobile applications<br><br>
-<b>Fun fact</b>: An ESFJ who thrives in team environments—known for clear communication, collaboration, and keeping projects (and people) moving smoothly 🚀
+</div>
+
+<h2 align="center">Hey, I'm Htet 👋</h2>
+
+<p align="center">
+  Computer Science student at the <b>University of Information Technology (UIT), Myanmar</b><br/>
+  building full-stack applications, exploring machine learning, and learning by shipping.
 </p>
 
-###
+<p align="center">
+  <a href="https://htetmyetzaw.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/htetmyetzaw-uit/">LinkedIn</a> •
+  <a href="https://www.instagram.com/hm_zzz17/">Instagram</a>
+</p>
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### `>_ about me`
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="next logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=expressjs" height="40" alt="express logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="10" />
-</div>
+```text
+I'm a CS student who enjoys turning ideas into real, usable software.
 
-###
+→ Full-stack development
+→ Backend & REST API design
+→ React / Next.js interfaces
+→ Java / Spring Boot & PHP / Laravel
+→ Machine learning with Python & scikit-learn
+→ Automation with n8n
+→ Always learning something new
+```
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+### `>_ tech stack`
 
-###
+**Languages**
 
-<div align="center">
-  <a href="https://www.facebook.com/share/159vjLbURz/?mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/hm_zzz17/profilecard/?igsh=M2VhOGwwNG53OHkz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/htetmyetzaw-uit/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://youtube.com/@hm_zzzzaw21?si=ic46n-VE3QSs2YlK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+
+**Frameworks & libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+
+**Tools & data**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=fff)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=fff)
+
+---
+
+### `>_ things i've built`
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Travinity** | Travel platform for flights, hotels, vehicles & cruises | React · Spring Boot · PostgreSQL · Tailwind |
+| **FitFinity Healthcare** | Healthcare management + symptom-based doctor booking | Laravel · Tailwind |
+| **Code2Career / IT Pout SA** | Hackathon project focused on connecting skills, careers & opportunities | Full-stack web |
+| **Moodoshii** | Personal mood tracking web app | Next.js · Firebase · Tailwind |
+| **JLPT N2 Study App** | Personal study platform with flashcards, SRS, tests & analytics | Next.js · TypeScript · MongoDB · n8n |
+
+---
+
+### `>_ currently learning`
+
+```text
+[■■■■■■■■■■■■■■■■□□] Full-stack architecture
+[■■■■■■■■■■■■■□□□□□] Machine learning
+[■■■■■■■■■■■■□□□□□□] System design
+[■■■■■■■■■■■■■■□□□□] Japanese / JLPT N2
+[■■■■■■■■■■■■■■■□□□] Building better developer tools
+```
+
+---
+
+### `>_ github`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hm-zaw&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm-zaw&layout=compact&hide_border=true&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hm-zaw&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+---
+
+### `>_ a little more`
+
+```text
+💡 I like building things that solve actual problems.
+🧩 I enjoy both frontend interfaces and backend logic.
+🤝 I like working in teams and learning from other developers.
+🌱 Currently turning "I should build this" into "I shipped this."
+```
+
+<p align="center">
+  <i>Thanks for stopping by — let's build something cool.</i> 🚀
+</p>
