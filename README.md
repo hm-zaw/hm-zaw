@@ -80,8 +80,14 @@ I'm a 5th-Year CS student who enjoys turning ideas into real, usable software.
 ### `>_ github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hm-zaw&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm-zaw&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hm-zaw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=E6EDF3&icon_color=79C0FF&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hm-zaw&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=E6EDF3"
+    height="170"
+  />
 </p>
 
 <p align="center">
